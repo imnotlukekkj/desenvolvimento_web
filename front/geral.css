@@ -74,9 +74,11 @@ header {
     position: relative;
     overflow: hidden;
 }
-.dish-description {
-    color: #434343;
-    text-align: center;
+.dish-image {
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    overflow: hidden;
 }
 #home {
     display: flex;
