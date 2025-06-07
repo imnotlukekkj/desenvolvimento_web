@@ -125,4 +125,26 @@ header {
     display: block;
     object-fit: contain;
 }
+footer {
+    background-color: var(--color-primary-2);
+}
+#copyright {
+    color:  #215732;
+    font-weight: 500;
+}
 
+.section-title {
+    font-size: 2rem;
+    color: #215732;
+    margin-bottom: 16px;
+}
+.dish-title {
+    font-size: 1.5rem;
+    color: #215732;
+    font-weight: 600;
+}
+.dish-description{
+    font-size: 1rem;
+    color: #080400b7;
+    text-align: center;
+}
